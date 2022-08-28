@@ -1,2 +1,4 @@
-*.rbc
-*.fyc
+# OS Runtime Files
+.DS_Store
+[Tt]humbs.db
+[Dd]esktop.ini
